@@ -5,7 +5,7 @@ from odoo import api, fields, models, _
 
 class NyifeTemplate(models.Model):
     _name = 'nyife.template'
-    _description = 'Nyife WhatsApp Template'
+    _description = 'Nyife Chat Template'
     _order = 'name'
 
     name = fields.Char(string='Template Name', required=True, index=True)

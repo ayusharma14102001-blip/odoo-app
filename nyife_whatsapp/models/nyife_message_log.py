@@ -4,7 +4,7 @@ from odoo import fields, models
 
 class NyifeMessageLog(models.Model):
     _name = 'nyife.message.log'
-    _description = 'Nyife WhatsApp Message Log'
+    _description = 'Nyife Chat Message Log'
     _order = 'create_date desc'
     _rec_name = 'phone'
 

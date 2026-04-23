@@ -1,6 +1,6 @@
-# Nyife WhatsApp Notifications for Odoo CRM
+# Nyife Chat for Odoo CRM
 
-Automatically send WhatsApp template messages on CRM lead events via the Nyife WhatsApp Business API.
+Automatically send WhatsApp template messages on CRM lead events via the Nyife Chat Business API.
 
 ## Features
 
@@ -17,16 +17,16 @@ Automatically send WhatsApp template messages on CRM lead events via the Nyife W
 
 1. Copy the `nyife_whatsapp` folder into your Odoo addons directory.
 2. Restart the Odoo server.
-3. Go to **Apps** → Update Apps List → Search for "Nyife WhatsApp" → Install.
+3. Go to **Apps** → Update Apps List → Search for "Nyife Chat" → Install.
 
 ## Configuration
 
-1. Go to **Settings → Nyife WhatsApp**.
+1. Go to **Settings → Nyife Chat**.
 2. Enter your **Nyife Instance URL** (e.g., `https://your-domain.nyife.chat`).
 3. Enter your **API Access Token** from the Nyife dashboard.
 4. Click **Test Connection** to verify.
 5. Click **Sync Templates** to import your approved WhatsApp templates.
-6. Go to **Nyife WhatsApp → Configuration → Event Actions** and create your automation rules.
+6. Go to **Nyife Chat → Configuration → Event Actions** and create your automation rules.
 
 ## Requirements
 

@@ -1,4 +1,4 @@
-# Publishing Nyife WhatsApp Module to Odoo App Store
+# Publishing Nyife Chat Module to Odoo App Store
 
 ## Step-by-Step Guide
 
